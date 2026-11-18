@@ -111,7 +111,7 @@ class _TaskScreenState extends State<TaskScreen> {
             const SizedBox(height: 20),
 
             DropdownButtonFormField<String>(
-              value: status,
+              initialValue: status,
               decoration: const InputDecoration(
                 labelText: 'Estado',
               ),

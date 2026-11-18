@@ -1,0 +1,3 @@
+# Reflexión Final
+
+Implementar pruebas unitarias y de widgets de forma estructurada me permitió identificar fallos lógicos en los modelos de datos y en el manejo de estados asíncronos antes de desplegar en entornos de producción. El error más costoso que evité fue el fallo de nulidad en los flujos de autenticación (INC-001); haber integrado validaciones preventivas y pruebas de regresión automatizadas evitó cierres inesperados en la interfaz de usuario en momentos críticos de navegación. Este ejercicio consolidó la importancia de mantener una arquitectura limpia y desacoplada en Flutter, facilitando la trazabilidad de errores mediante Git y asegurando un código robusto, fácil de mantener y auditable.
