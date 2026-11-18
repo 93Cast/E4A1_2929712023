@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "129779050893",
+    "firebase_url": "https://fir-dbrealtime-c37cd-default-rtdb.firebaseio.com",
+    "project_id": "fir-dbrealtime-c37cd",
+    "storage_bucket": "fir-dbrealtime-c37cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129779050893:android:42a77cab7237e22223b5c4",
+        "android_client_info": {
+          "package_name": "com.example.e44a1_2929712023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOiWRMwLCU8V4OGDFDklFIBsC-1aRgzDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129779050893:android:d7f6d06770ecd79523b5c4",
+        "android_client_info": {
+          "package_name": "com.example.realtimexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOiWRMwLCU8V4OGDFDklFIBsC-1aRgzDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129779050893:android:881ff342ef76db0423b5c4",
+        "android_client_info": {
+          "package_name": "com.example.taskflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOiWRMwLCU8V4OGDFDklFIBsC-1aRgzDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
